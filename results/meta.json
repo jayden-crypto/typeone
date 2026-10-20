@@ -1,0 +1,14 @@
+{
+ "sims": 10000,
+ "seed": 2026,
+ "scenarios": [
+  "normal",
+  "unequal-split",
+  "conversion-5%",
+  "conversion-rare",
+  "revenue",
+  "skewed-small",
+  "ratio",
+  "cuped"
+ ]
+}
