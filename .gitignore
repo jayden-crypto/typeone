@@ -11,3 +11,5 @@ wheels/
 
 *.log
 results/*.npz
+
+.DS_Store
